@@ -1,7 +1,7 @@
 # microbit-light-show
 
 An engaging musical light show on the BBC micro:bit v2 (ANU COMP2300 assignment).
-为您提供 CS , DS , 商科 编程作业代写
+[为您提供 CS , DS , 商科 编程作业代写](http://dzuoye.work "编程代写")
 
 <img src="design2023866.jpg"  width="200" />
 
@@ -99,6 +99,9 @@ Our program imitates classic movies to implement an ever-changing light show wit
 ### 作业定价有两种方式：
     - 根据定价标准进行
     - 通过微信我们一起协商
+
+[为您提供 CS , DS , 商科 编程作业代写](http://dzuoye.work "编程代写")
+    
 ## 联系方式
 
 微信（WeChat）：design2023866
